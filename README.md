@@ -1,3 +1,3 @@
 # Motivational Posters
 
-Built by Jonny Moore
+Simple app made using Ruby, Javascript and jQuery, which retrieves images from Google searches.
